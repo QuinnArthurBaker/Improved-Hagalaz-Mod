@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>Inproved Hagalaz</name>
-	<directory>improved_hagalaz</directory>
-	<description>This mod improves functionality of the Hagalaz rune! Now, Hagalaz will extinguish fires, open the door to Secret and Super Secret Rooms, and instantly kills all Host variants </description>
-	<version>1.0</version>
-	<visibility/>
+    <name>Improved Hagalaz</name>
+    <directory>improved_hagalaz</directory>
+    <id>1689683831</id>
+    <description>This mod improves functionality of the Hagalaz rune! Now, Hagalaz will extinguish fires, open the door to Secret and Super Secret Rooms, and destroy all kinds of grimaces.</description>
+    <version>1.3</version>
+    <visibility>Private</visibility>
+    <tag id="Cards"/>
+    <tag id="Tweaks"/>
 </metadata>
-
